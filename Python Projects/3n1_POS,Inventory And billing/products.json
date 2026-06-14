@@ -1,0 +1,58 @@
+[
+  {
+    "product_id": "A796C5A0",
+    "name": "Apple",
+    "price": 25.0,
+    "quantity": 49,
+    "category": "Fruits"
+  },
+  {
+    "product_id": "E24FA5EE",
+    "name": "Banana",
+    "price": 15.0,
+    "quantity": 77,
+    "category": "Fruits"
+  },
+  {
+    "product_id": "D256F79A",
+    "name": "Milk 1L",
+    "price": 75.0,
+    "quantity": 20,
+    "category": "Dairy"
+  },
+  {
+    "product_id": "2D759892",
+    "name": "Bread Loaf",
+    "price": 55.0,
+    "quantity": 15,
+    "category": "Bakery"
+  },
+  {
+    "product_id": "D9B6C474",
+    "name": "Eggs (12pc)",
+    "price": 120.0,
+    "quantity": 29,
+    "category": "Dairy"
+  },
+  {
+    "product_id": "4A839BEF",
+    "name": "Rice 1kg",
+    "price": 60.0,
+    "quantity": 100,
+    "category": "Grains"
+  },
+  {
+    "product_id": "6F6CAC08",
+    "name": "Coffee Sachet",
+    "price": 8.0,
+    "quantity": 199,
+    "category": "Beverages"
+  },
+  {
+    "product_id": "0357B236",
+    "name": "Bottled Water",
+    "price": 18.0,
+    "quantity": 8,
+    "category": "Beverages"
+  }
+]

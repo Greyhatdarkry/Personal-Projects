@@ -1,4 +1,2 @@
 # Personal-Projects
 Self Skill Development project with alignment of what i learned
-
-You can use run and use my project at your ide using vscode, antigravity and etc.,

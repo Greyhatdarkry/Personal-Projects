@@ -1,0 +1,86 @@
+[
+  {
+    "receipt_id": "RCP-13B7DE4E",
+    "items": [
+      {
+        "product": {
+          "product_id": "E24FA5EE",
+          "name": "Banana",
+          "price": 15.0,
+          "quantity": 78,
+          "category": "Fruits"
+        },
+        "qty": 2
+      },
+      {
+        "product": {
+          "product_id": "6F6CAC08",
+          "name": "Coffee Sachet",
+          "price": 8.0,
+          "quantity": 199,
+          "category": "Beverages"
+        },
+        "qty": 1
+      },
+      {
+        "product": {
+          "product_id": "0357B236",
+          "name": "Bottled Water",
+          "price": 18.0,
+          "quantity": 3,
+          "category": "Beverages"
+        },
+        "qty": 1
+      },
+      {
+        "product": {
+          "product_id": "A796C5A0",
+          "name": "Apple",
+          "price": 25.0,
+          "quantity": 49,
+          "category": "Fruits"
+        },
+        "qty": 1
+      }
+    ],
+    "subtotal": 81.0,
+    "discount": 0.0,
+    "tax": 9.72,
+    "total": 90.72,
+    "amount_paid": 200.0,
+    "change": 109.28,
+    "timestamp": "2026-04-27 00:48:23"
+  },
+  {
+    "receipt_id": "RCP-A703779D",
+    "items": [
+      {
+        "product": {
+          "product_id": "E24FA5EE",
+          "name": "Banana",
+          "price": 15.0,
+          "quantity": 77,
+          "category": "Fruits"
+        },
+        "qty": 1
+      },
+      {
+        "product": {
+          "product_id": "D9B6C474",
+          "name": "Eggs (12pc)",
+          "price": 120.0,
+          "quantity": 29,
+          "category": "Dairy"
+        },
+        "qty": 1
+      }
+    ],
+    "subtotal": 135.0,
+    "discount": 0.0,
+    "tax": 16.2,
+    "total": 151.2,
+    "amount_paid": 500.0,
+    "change": 348.8,
+    "timestamp": "2026-04-27 21:39:47"
+  }
+]
