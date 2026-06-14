@@ -8,7 +8,7 @@ from datetime import datetime
 import uuid
 
 
-# ─── Status Enum ──────────────────────────────────────────────────────────────
+# Status Enum
 
 class OrderStatus(Enum):
     QUEUED    = "Queued"
@@ -17,7 +17,7 @@ class OrderStatus(Enum):
     DELIVERED = "Delivered"
 
 
-# ─── Menu Items ───────────────────────────────────────────────────────────────
+#Menu Items
 
 class MenuItem:
     def __init__(self, name: str, cook_time: int, price: float, emoji: str = ""):
@@ -36,7 +36,7 @@ class MenuItem:
         return f"MenuItem({self.name}, {self.cook_time}s, ₱{self.price})"
 
 
-# ─── Order ────────────────────────────────────────────────────────────────────
+# Order
 
 class Order:
     def __init__(self, customer_name: str, items: list[MenuItem]):
