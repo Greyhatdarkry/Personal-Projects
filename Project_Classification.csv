@@ -1,0 +1,9 @@
+Category,Project Name,Technology Stack,Stack Type,Languages Used,Description
+Repository,git-testing,Python Only,Not MEAN/MERN/LAMP,Python,Testing repository for git learning
+Repository,prmsuYarn,Frontend Only,Not MEAN/MERN/LAMP,JavaScript,Pixelated game inspired by PRMSU campus
+Repository,XAMPPniLind,Partial LAMP,LAMP (In Development),PHP/MySQL/Apache/HTML,Database UI/UX project using XAMPP
+Personal Projects - Java,Thrift Shop,Java Desktop,Not MEAN/MERN/LAMP,Java,Java-based desktop application
+Personal Projects - Python,3n1 POS Inventory And Billing,Backend Only,Not MEAN/MERN/LAMP,Python,Point of Sale system with inventory management using Python (models.py logic.py main.py JSON storage)
+Personal Projects - Python,Jollikod P.O.S. System,Backend Only,Not MEAN/MERN/LAMP,Python,Advanced POS system with PDF generation and queue management
+Personal Projects - Python,Smart Inventory Management System,Backend Only,Not MEAN/MERN/LAMP,Python,Inventory management system with database (vending_machine.db) and reporting
+Personal Projects - IoT,Line Tracking Robot,Embedded Systems,Not MEAN/MERN/LAMP,Arduino/C++,Arduino-based line tracking robot project
